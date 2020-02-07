@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 add func1
 
 add func2
+=======
+add func1
+>>>>>>> 9b81c81... add test2 --
