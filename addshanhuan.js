@@ -1,7 +1,4 @@
-function add1(){}
-
-
-
+//-----------------------------------------------------------
 //初始化普通扇环模型
 function addFanRing(indexarray,scene) {
     var loader=new THREE.OBJLoader();
@@ -35,9 +32,6 @@ function addFanRing(indexarray,scene) {
         }
     });
 }
-
-function add2(){}
-
 //创建障碍物扇环模型
 function addobstaclesFanring(indexarray,scene) {
     var loader=new THREE.OBJLoader();
