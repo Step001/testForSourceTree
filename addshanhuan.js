@@ -62,6 +62,10 @@ function addobstaclesFanring(indexarray,scene) {
         }
     });
 }
+
+
+function add3(){}
+
 //通过对象数组添加对象
 function addFanringByList(arrayList,scene) {
     for(var i=0;i<arrayList.length;i++)          //遍历扇环对象数组
