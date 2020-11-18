@@ -7,4 +7,6 @@ git冲突 --2
 add test1
 
 
+afkaflkanl
+
 add test2
